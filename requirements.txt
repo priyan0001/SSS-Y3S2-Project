@@ -50,7 +50,7 @@ pycodestyle==2.10.0
 pydrill==0.3.4
 PyDriller==2.4.1
 pyflakes==3.0.1
-pyinstaller==5.11.0
+pyinstaller==5.13.1
 pyinstaller-hooks-contrib==2023.3
 pytest==7.3.1
 python-dateutil==2.8.2
