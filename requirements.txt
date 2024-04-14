@@ -19,7 +19,7 @@ google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 grpcio==1.54.0
 h5py==3.8.0
-idna==3.4
+idna==3.7
 iniconfig==2.0.0
 jax==0.4.8
 joblib==1.2.0
