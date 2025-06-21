@@ -43,7 +43,7 @@ pandas==2.0.1
 pefile==2023.2.7
 Pillow==9.5.0
 pluggy==1.0.0
-protobuf==4.22.4
+protobuf==4.25.8
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycodestyle==2.10.0
@@ -78,7 +78,7 @@ types-pytz==2023.3.0.0
 typing_extensions==4.5.0
 tzdata==2023.3
 uncompyle6==3.9.0
-urllib3==1.26.15
+urllib3==2.5.0
 Werkzeug==2.3.3
 wrapt==1.14.1
 xdis==6.0.5
